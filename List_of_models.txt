@@ -1,0 +1,5 @@
+ollama pull phi3:mini
+
+ollama pull gemma:2b
+
+ollama pull stablelm2:1.6b
